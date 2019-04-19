@@ -27,4 +27,6 @@ XXXXXの箇所を、書き換えます。
 ブラウザにアクセスします。  
 http://localhost:3000
 
+挙動の確認  
+![obpcs_sample](https://user-images.githubusercontent.com/43230951/56416128-e0721700-62ca-11e9-89e1-ca6e5ba6fdc3.gif)
 
