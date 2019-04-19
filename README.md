@@ -1,8 +1,13 @@
 # obpcs_sample_system
 
-## How to use?
+## 前提
+[この記事](https://qiita.com/nobkovskii/items/401b9d45d27bb9004e8f)を参考に、チェーンコードの作成が行われていること。
 
+## How to use?
+適当なディレクトリでクローンします。  
 `git clone https://github.com/nobkovskii/obpcs_sample_system.git`  
+
+ディレクトリ移動します。  
 `cd obpcs_sample_system/`  
 
 `vi app.js`  
@@ -20,8 +25,11 @@ XXXXXの箇所を、書き換えます。
 52 // ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 ```
 
+必要なモジュールをインストールします。  
 `npm init -y`  
 `npm install express ejs basic-auth-connect request axios --save`  
+
+起動します。  
 `node app.js`
 
 ブラウザにアクセスします。  
